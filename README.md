@@ -5,4 +5,4 @@
 
 ## Do you want to see my potfolio of my works? There: https://devlognikita.netlify.app/
 
-I learn Web, React, Python, C++. Ready for commerical use.
+I learn Web, Python. Ready for commerical use.
